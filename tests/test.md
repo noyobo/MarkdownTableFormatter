@@ -27,3 +27,8 @@ This is some text that won't be modified when formatting those nice tables.
 
 | it's | a trap | (i'm not a table!)
 Select 1 | Select 2 | Select ALL
+
+| 业务方向      | 线人         |
+|:----------|:-----------|
+| 运营后台 - 销售 | 雪、鹏、丽 |
+| 智能商业部     | 瑞         |
